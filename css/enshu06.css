@@ -1,0 +1,21 @@
+h1{
+    color:#ffffff;/*--文字の色-->*/
+    font-size:25px;/*--文字のサイズ-->*/
+    font-weight: bold;/*--文字の太さ-->*/
+    font-family: "Impact";/*--文字のフォント-->*/
+    text-align:center;/*--文字の寄せる場所-->*/
+    background-color:#000000;/*--文字の背景色-->*/
+}
+h2{
+    text-align:center;
+    color:#000000;
+    background-color:#aaaaaa;
+}
+h3{
+   text-align:left;
+   color:#0000ff; 
+}
+
+body{
+    background-image: url(../imeages/haikei_1.jpeg)/*--背景の画像-->*/
+}
